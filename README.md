@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sansakr Singh</h1>
-<h3 align="center">Persistent Learner and Tech-Admirer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Web-Development and Data Structures and Algorithms, among others.**
 
